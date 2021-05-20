@@ -189,7 +189,7 @@ li {
 }
 
 .bottom .inner {
-  padding: 30px;
+  padding: 25px;
   display: flex;
 }
 
@@ -199,6 +199,7 @@ li {
   float: right;
   text-align: right;
   width: 40%;
+  padding-top: 5px;
 }
 
 .nav_list_bottom {
@@ -206,6 +207,7 @@ li {
   align-items: center;
   width: 60%;
   text-decoration: none;
+  float: right;
 }
 
 .nav_link_bottom:hover {
